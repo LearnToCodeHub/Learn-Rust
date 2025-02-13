@@ -1,11 +1,11 @@
 # Learn-Rust
 
 
-- **Rust Programming Full Course**: [A comprehensive course covering Rust fundamentals and advanced topics in one video.](https://www.youtube.com/watch?v=rQ_J9WH6CGk)
+- **Rust Programming Full Course**: [A comprehensive course covering Rust fundamentals.](https://www.youtube.com/watch?v=rQ_J9WH6CGk)
 - 
 - **Learn Rust Programming**: [An introductory guide to learning Rust from scratch with practical examples.](https://www.youtube.com/watch?v=BpPEoZW5IiY)
 - 
-- **Rust Tutorial**: [A step-by-step tutorial series covering the basics and more advanced features of Rust.](https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ)
+- **Rust Tutorial**: [A step-by-step tutorial series covering the basics features of Rust.](https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ)
 - 
 - **Rust 101 Crash Course**: [A concise crash course that introduces the core concepts of Rust quickly.](https://www.youtube.com/watch?v=lzKeecy4OmQ)
 - 
